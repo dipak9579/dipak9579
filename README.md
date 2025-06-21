@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dipak Dandge</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [college-exam-platform](https://github.com/dipak9579/college-exam-platform)
+- 🔭 I’m currently working on [college-exam-platform](https://github.com/dipak9579/exam-platform-springBoot)
 
 - 🌱 I’m currently learning **DSA with Java**
 
-- 💬 Ask me about **react,MERN project**
+- 💬 Ask me about **core java,spring,springBoot project**
 
 - 📫 How to reach me **dipakdandge256@gmail.com**
 
